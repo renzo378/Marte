@@ -4,4 +4,5 @@ public void algo(int x,int y){
 this.x = x +1+x;
   x = x+y;
 }
+  public Persona(){}
 }
