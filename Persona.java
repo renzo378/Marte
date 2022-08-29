@@ -1,6 +1,6 @@
 public class Persona{
 public int x;
-public void algo(){
-x = x +1;
+public void algo(int x){
+this.x = x +1;
 }
 }
