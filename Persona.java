@@ -1,7 +1,7 @@
 public class Persona{
 public int x;
 public void algo(int x,int y){
-this.x = x +1+y+x;
+this.x = x +1+x;
   x = x+y;
 }
 }
