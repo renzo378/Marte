@@ -9,7 +9,6 @@ public class Auto {
         int h = 5;
         x = x+3+b;
         k = x+b;
-        this.x = y;
         this.y = true;     
     }
     public void nose(){
