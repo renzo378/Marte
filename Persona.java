@@ -1,14 +1,10 @@
 public class Persona{
 public int x;
 public String y;
-public void algo(int x,int y){
-this.x = x +1+x;
-  x = x+y;
+  public int g
+public void algo(int x,string y,int l){
+this.x = x + 1+ l;
+this.y = y;
+this.x = this.g;
 }
- public String Personaa(){
-  return y + "hola";
- }
- public void nose(int l){
-   l = l +5;
- }
 }
