@@ -10,7 +10,12 @@ public class Auto {
         x = x+3+b;
         k = x+b;
         this.x = y;
-        this.y = true;
-        
+        this.y = true;     
+    }
+    public void nose(){
+    
+    }
+    public void algomas(){
+     k = k+2;   
     }
 }
