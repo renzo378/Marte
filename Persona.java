@@ -1,10 +1,8 @@
-public class Persona{
-public int x;
-public String y;
-  public int g;
-public void algo(int x,string y,int l){
-this.x = x + 1+ l;
-this.y = y;
-this.x = this.g;
-}
+public class Auto {
+    public int x;
+    public boolean y;
+    public void algo(int x){
+        int y = 0;
+        this.x = y;
+    }
 }
