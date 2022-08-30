@@ -5,7 +5,7 @@ public void Sumar(int y){
   x = y + 5;
 }
 public void Algo(){
-this.y = "Sumar"
+this.y = "Sumar";
 }
 
 
