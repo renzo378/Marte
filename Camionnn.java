@@ -1,11 +1,13 @@
 public class Camion{
-private int x;
-private String y;
-public void Sumar(int y){
-  x = y + 5;
-}
+public boolean x = true;
+public boolean y = false;
 public void Algo(){
-this.y = "Sumar";
+  if(x && y){
+    
+  }else if(y){
+    
+  }else{
+  }
 }
 
 
