@@ -3,7 +3,7 @@ public class Persona {
     private int AlgoQUEnOsemuybienquehace;
 
     private int tole = 0;
-
+    private boolean isJaviGay;
     public void Algo(){
         this.AlgoQUEnOsemuybienquehace = (5>3)?4:5;
         if(5>3 && 5>5){
