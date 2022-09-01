@@ -1,5 +1,5 @@
 public class Persona{
-    public int x
+    public int x;
 public void Algo(){
 if(x){
     if(y){
