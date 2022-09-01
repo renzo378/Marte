@@ -1,19 +1,12 @@
-public class Persona{
-    public int x;
-public void Algo(){
-if(x){
-    if(y){
-    x="hola";
-    }else if(x){
-    x="chau";
-    }else{
-    x="hola que tal";
+    public class Persona{
+    public void Algo(){
+    switch(i) {
+  case 0:
+    System.out.println("i es cero.");
+    break;
+    default:
+    System.out.println("i es mayor a tres.");
+        }
     }
     }
-   else{
-    y="chau";
-    }
-}
-}
-
-
+    
